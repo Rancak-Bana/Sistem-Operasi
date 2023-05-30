@@ -1,2 +1,2 @@
 # Sistem-Operasi
-docs only
+pdf only
